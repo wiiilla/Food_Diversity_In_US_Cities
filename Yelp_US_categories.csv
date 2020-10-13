@@ -1,0 +1,173 @@
+,alias,title,parents
+0,acaibowls,Acai Bowls,food
+1,afghani,Afghan,restaurants
+2,african,African,restaurants
+3,arabian,Arabian,restaurants
+4,argentine,Argentine,restaurants
+5,armenian,Armenian,restaurants
+6,asianfusion,Asian Fusion,restaurants
+7,australian,Australian,restaurants
+8,austrian,Austrian,restaurants
+9,bagels,Bagels,food
+10,bakeries,Bakeries,food
+11,bangladeshi,Bangladeshi,restaurants
+12,basque,Basque,restaurants
+13,bbq,Barbeque,restaurants
+14,beer_and_wine,"Beer, Wine & Spirits",food
+15,belgian,Belgian,restaurants
+16,beverage_stores,Beverage Store,food
+17,brasseries,Brasseries,restaurants
+18,brazilian,Brazilian,restaurants
+19,breakfast_brunch,Breakfast & Brunch,restaurants
+20,breweries,Breweries,food
+21,british,British,restaurants
+22,bubbletea,Bubble Tea,food
+23,buffets,Buffets,restaurants
+24,bulgarian,Bulgarian,restaurants
+25,burgers,Burgers,restaurants
+26,burmese,Burmese,restaurants
+27,butcher,Butcher,food
+28,cafes,Cafes,restaurants
+29,cafeteria,Cafeteria,restaurants
+30,cajun,Cajun/Creole,restaurants
+31,cakeshop,Patisserie/Cake Shop,food
+32,cambodian,Cambodian,restaurants
+33,caribbean,Caribbean,restaurants
+34,catalan,Catalan,restaurants
+35,cheesesteaks,Cheesesteaks,restaurants
+36,chicken_wings,Chicken Wings,restaurants
+37,chickenshop,Chicken Shop,restaurants
+38,chimneycakes,Chimney Cakes,food
+39,chinese,Chinese,restaurants
+40,cideries,Cideries,food
+41,coffee,Coffee & Tea,food
+42,coffeeroasteries,Coffee Roasteries,food
+43,comfortfood,Comfort Food,restaurants
+44,convenience,Convenience Stores,food
+45,creperies,Creperies,restaurants
+46,csa,CSA,food
+47,cuban,Cuban,restaurants
+48,cupcakes,Cupcakes,food
+49,customcakes,Custom Cakes,food
+50,czech,Czech,restaurants
+51,delis,Delis,restaurants
+52,desserts,Desserts,food
+53,diners,Diners,restaurants
+54,dinnertheater,Dinner Theater,restaurants
+55,distilleries,Distilleries,food
+56,diyfood,Do-It-Yourself Food,food
+57,donuts,Donuts,food
+58,empanadas,Empanadas,food
+59,eritrean,Eritrean,restaurants
+60,ethiopian,Ethiopian,restaurants
+61,farmersmarket,Farmers Market,food
+62,filipino,Filipino,restaurants
+63,fishnchips,Fish & Chips,restaurants
+64,fondue,Fondue,restaurants
+65,food_court,Food Court,restaurants
+66,fooddeliveryservices,Food Delivery Services,food
+67,foodstands,Food Stands,restaurants
+68,foodtrucks,Food Trucks,food
+69,french,French,restaurants
+70,gamemeat,Game Meat,restaurants
+71,gastropubs,Gastropubs,restaurants
+72,gelato,Gelato,food
+73,georgian,Georgian,restaurants
+74,german,German,restaurants
+75,gluten_free,Gluten-Free,restaurants
+76,gourmet,Specialty Food,food
+77,greek,Greek,restaurants
+78,grocery,Grocery,food
+79,guamanian,Guamanian,restaurants
+80,halal,Halal,restaurants
+81,hawaiian,Hawaiian,restaurants
+82,himalayan,Himalayan/Nepalese,restaurants
+83,hkcafe,Hong Kong Style Cafe,restaurants
+84,honduran,Honduran,restaurants
+85,honey,Honey,food
+86,hotdog,Hot Dogs,restaurants
+87,hotdogs,Fast Food,restaurants
+88,hotpot,Hot Pot,restaurants
+89,hungarian,Hungarian,restaurants
+90,iberian,Iberian,restaurants
+91,icecream,Ice Cream & Frozen Yogurt,food
+92,importedfood,Imported Food,food
+93,indonesian,Indonesian,restaurants
+94,indpak,Indian,restaurants
+95,internetcafe,Internet Cafes,food
+96,intlgrocery,International Grocery,food
+97,irish,Irish,restaurants
+98,italian,Italian,restaurants
+99,japanese,Japanese,restaurants
+100,juicebars,Juice Bars & Smoothies,food
+101,kebab,Kebab,restaurants
+102,kombucha,Kombucha,food
+103,korean,Korean,restaurants
+104,kosher,Kosher,restaurants
+105,laotian,Laotian,restaurants
+106,latin,Latin American,restaurants
+107,malaysian,Malaysian,restaurants
+108,meaderies,Meaderies,food
+109,mediterranean,Mediterranean,restaurants
+110,mexican,Mexican,restaurants
+111,mideastern,Middle Eastern,restaurants
+112,modern_european,Modern European,restaurants
+113,mongolian,Mongolian,restaurants
+114,moroccan,Moroccan,restaurants
+115,newamerican,American (New),restaurants
+116,newmexican,New Mexican Cuisine,restaurants
+117,nicaraguan,Nicaraguan,restaurants
+118,noodles,Noodles,restaurants
+119,organic_stores,Organic Stores,food
+120,pakistani,Pakistani,restaurants
+121,panasian,Pan Asian,restaurants
+122,persian,Persian/Iranian,restaurants
+123,peruvian,Peruvian,restaurants
+124,piadina,Piadina,food
+125,pizza,Pizza,restaurants
+126,poke,Poke,food
+127,polish,Polish,restaurants
+128,polynesian,Polynesian,restaurants
+129,popuprestaurants,Pop-Up Restaurants,restaurants
+130,portuguese,Portuguese,restaurants
+131,poutineries,Poutineries,restaurants
+132,pretzels,Pretzels,food
+133,raw_food,Live/Raw Food,restaurants
+134,russian,Russian,restaurants
+135,salad,Salad,restaurants
+136,sandwiches,Sandwiches,restaurants
+137,scandinavian,Scandinavian,restaurants
+138,scottish,Scottish,restaurants
+139,seafood,Seafood,restaurants
+140,shavedice,Shaved Ice,food
+141,shavedsnow,Shaved Snow,food
+142,singaporean,Singaporean,restaurants
+143,slovakian,Slovakian,restaurants
+144,smokehouse,Smokehouse,food
+145,somali,Somali,restaurants
+146,soulfood,Soul Food,restaurants
+147,soup,Soup,restaurants
+148,southern,Southern,restaurants
+149,spanish,Spanish,restaurants
+150,srilankan,Sri Lankan,restaurants
+151,steak,Steakhouses,restaurants
+152,streetvendors,Street Vendors,food
+153,supperclubs,Supper Clubs,restaurants
+154,sushi,Sushi Bars,restaurants
+155,syrian,Syrian,restaurants
+156,taiwanese,Taiwanese,restaurants
+157,tapas,Tapas Bars,restaurants
+158,tapasmallplates,Tapas/Small Plates,restaurants
+159,tea,Tea Rooms,food
+160,tex-mex,Tex-Mex,restaurants
+161,thai,Thai,restaurants
+162,tradamerican,American (Traditional),restaurants
+163,turkish,Turkish,restaurants
+164,ukrainian,Ukrainian,restaurants
+165,uzbek,Uzbek,restaurants
+166,vegan,Vegan,restaurants
+167,vegetarian,Vegetarian,restaurants
+168,vietnamese,Vietnamese,restaurants
+169,waffles,Waffles,restaurants
+170,waterstores,Water Stores,food
+171,wraps,Wraps,restaurants

@@ -1,0 +1,173 @@
+,alias,title,parents
+3,acaibowls,Acai Bowls,food
+18,afghani,Afghan,restaurants
+19,african,African,restaurants
+53,arabian,Arabian,restaurants
+59,argentine,Argentine,restaurants
+60,armenian,Armenian,restaurants
+74,asianfusion,Asian Fusion,restaurants
+84,australian,Australian,restaurants
+85,austrian,Austrian,restaurants
+110,bagels,Bagels,food
+113,bakeries,Bakeries,food
+115,bangladeshi,Bangladeshi,restaurants
+126,basque,Basque,restaurants
+131,bbq,Barbeque,restaurants
+138,beer_and_wine,"Beer, Wine & Spirits",food
+147,belgian,Belgian,restaurants
+152,beverage_stores,Beverage Store,food
+193,brasseries,Brasseries,restaurants
+194,brazilian,Brazilian,restaurants
+197,breakfast_brunch,Breakfast & Brunch,restaurants
+198,breweries,Breweries,food
+202,british,British,restaurants
+204,bubbletea,Bubble Tea,food
+206,buffets,Buffets,restaurants
+208,bulgarian,Bulgarian,restaurants
+211,burgers,Burgers,restaurants
+212,burmese,Burmese,restaurants
+220,butcher,Butcher,food
+225,cafes,Cafes,restaurants
+226,cafeteria,Cafeteria,restaurants
+227,cajun,Cajun/Creole,restaurants
+228,cakeshop,Patisserie/Cake Shop,food
+231,cambodian,Cambodian,restaurants
+250,caribbean,Caribbean,restaurants
+264,catalan,Catalan,restaurants
+274,cheesesteaks,Cheesesteaks,restaurants
+276,chicken_wings,Chicken Wings,restaurants
+277,chickenshop,Chicken Shop,restaurants
+284,chimneycakes,Chimney Cakes,food
+286,chinese,Chinese,restaurants
+295,cideries,Cideries,food
+306,coffee,Coffee & Tea,food
+307,coffeeroasteries,Coffee Roasteries,food
+315,comfortfood,Comfort Food,restaurants
+330,convenience,Convenience Stores,food
+350,creperies,Creperies,restaurants
+354,csa,CSA,food
+355,cuban,Cuban,restaurants
+358,cupcakes,Cupcakes,food
+361,customcakes,Custom Cakes,food
+366,czech,Czech,restaurants
+382,delis,Delis,restaurants
+391,desserts,Desserts,food
+399,diners,Diners,restaurants
+400,dinnertheater,Dinner Theater,restaurants
+404,distilleries,Distilleries,food
+410,diyfood,Do-It-Yourself Food,food
+419,donuts,Donuts,food
+461,empanadas,Empanadas,food
+471,eritrean,Eritrean,restaurants
+479,ethiopian,Ethiopian,restaurants
+495,farmersmarket,Farmers Market,food
+507,filipino,Filipino,restaurants
+521,fishnchips,Fish & Chips,restaurants
+534,fondue,Fondue,restaurants
+536,food_court,Food Court,restaurants
+538,fooddeliveryservices,Food Delivery Services,food
+540,foodstands,Food Stands,restaurants
+542,foodtrucks,Food Trucks,food
+552,french,French,restaurants
+566,gamemeat,Game Meat,restaurants
+573,gastropubs,Gastropubs,restaurants
+575,gelato,Gelato,food
+582,georgian,Georgian,restaurants
+583,german,German,restaurants
+592,gluten_free,Gluten-Free,restaurants
+600,gourmet,Specialty Food,food
+603,greek,Greek,restaurants
+606,grocery,Grocery,food
+609,guamanian,Guamanian,restaurants
+628,halal,Halal,restaurants
+638,hawaiian,Hawaiian,restaurants
+660,himalayan,Himalayan/Nepalese,restaurants
+663,hkcafe,Hong Kong Style Cafe,restaurants
+688,honduran,Honduran,restaurants
+689,honey,Honey,food
+701,hotdog,Hot Dogs,restaurants
+702,hotdogs,Fast Food,restaurants
+706,hotpot,Hot Pot,restaurants
+712,hungarian,Hungarian,restaurants
+720,iberian,Iberian,restaurants
+721,icecream,Ice Cream & Frozen Yogurt,food
+725,importedfood,Imported Food,food
+726,indonesian,Indonesian,restaurants
+729,indpak,Indian,restaurants
+739,internetcafe,Internet Cafes,food
+741,intlgrocery,International Grocery,food
+744,irish,Irish,restaurants
+750,italian,Italian,restaurants
+757,japanese,Japanese,restaurants
+764,juicebars,Juice Bars & Smoothies,food
+771,kebab,Kebab,restaurants
+783,kombucha,Kombucha,food
+785,korean,Korean,restaurants
+786,kosher,Kosher,restaurants
+800,laotian,Laotian,restaurants
+804,latin,Latin American,restaurants
+843,malaysian,Malaysian,restaurants
+861,meaderies,Meaderies,food
+873,mediterranean,Mediterranean,restaurants
+880,mexican,Mexican,restaurants
+881,mideastern,Middle Eastern,restaurants
+897,modern_european,Modern European,restaurants
+899,mongolian,Mongolian,restaurants
+901,moroccan,Moroccan,restaurants
+937,newamerican,American (New),restaurants
+939,newmexican,New Mexican Cuisine,restaurants
+941,nicaraguan,Nicaraguan,restaurants
+947,noodles,Noodles,restaurants
+981,organic_stores,Organic Stores,food
+1008,pakistani,Pakistani,restaurants
+1010,panasian,Pan Asian,restaurants
+1041,persian,Persian/Iranian,restaurants
+1047,peruvian,Peruvian,restaurants
+1073,piadina,Piadina,food
+1084,pizza,Pizza,restaurants
+1093,poke,Poke,food
+1096,polish,Polish,restaurants
+1097,polynesian,Polynesian,restaurants
+1103,popuprestaurants,Pop-Up Restaurants,restaurants
+1106,portuguese,Portuguese,restaurants
+1110,poutineries,Poutineries,restaurants
+1115,pretzels,Pretzels,food
+1163,raw_food,Live/Raw Food,restaurants
+1207,russian,Russian,restaurants
+1217,salad,Salad,restaurants
+1222,sandwiches,Sandwiches,restaurants
+1226,scandinavian,Scandinavian,restaurants
+1232,scottish,Scottish,restaurants
+1236,seafood,Seafood,restaurants
+1255,shavedice,Shaved Ice,food
+1256,shavedsnow,Shaved Snow,food
+1273,singaporean,Singaporean,restaurants
+1287,slovakian,Slovakian,restaurants
+1289,smokehouse,Smokehouse,food
+1300,somali,Somali,restaurants
+1303,soulfood,Soul Food,restaurants
+1304,soup,Soup,restaurants
+1306,southern,Southern,restaurants
+1308,spanish,Spanish,restaurants
+1331,srilankan,Sri Lankan,restaurants
+1334,steak,Steakhouses,restaurants
+1339,streetvendors,Street Vendors,food
+1351,supperclubs,Supper Clubs,restaurants
+1358,sushi,Sushi Bars,restaurants
+1366,syrian,Syrian,restaurants
+1376,taiwanese,Taiwanese,restaurants
+1384,tapas,Tapas Bars,restaurants
+1385,tapasmallplates,Tapas/Small Plates,restaurants
+1396,tea,Tea Rooms,food
+1409,tex-mex,Tex-Mex,restaurants
+1410,thai,Thai,restaurants
+1432,tradamerican,American (Traditional),restaurants
+1461,turkish,Turkish,restaurants
+1467,ukrainian,Ukrainian,restaurants
+1479,uzbek,Uzbek,restaurants
+1485,vegan,Vegan,restaurants
+1486,vegetarian,Vegetarian,restaurants
+1500,vietnamese,Vietnamese,restaurants
+1510,waffles,Waffles,restaurants
+1522,waterstores,Water Stores,food
+1552,wraps,Wraps,restaurants

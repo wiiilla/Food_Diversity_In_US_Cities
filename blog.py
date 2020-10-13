@@ -7,7 +7,7 @@ from vega_datasets import data
 from scipy.stats import entropy
 
 
-MD_FILE_PATH = 'blog.md'
+MD_FILE_PATH = 'Blog.md'
 DATA_URL = (
     'https://raw.githubusercontent.com/wiiilla/Food_Diversity_In_US_Cities/main/food_diversity.csv')
 

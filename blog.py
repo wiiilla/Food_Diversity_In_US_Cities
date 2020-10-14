@@ -14,7 +14,7 @@ DATA_URL = (
 # Functions for loading Markdown Context
 @st.cache
 def load_content(MD_FILE_PATH, clean_func):
-    md_file = open("blog.md", "r")
+    md_file = open(MD_FILE_PATH, "r")
     content = md_file.read()
     md_file.close()
     return clean_func(content)
@@ -215,7 +215,6 @@ def display_content(content_blocks):
     #### Table: Top 10 most popular categories
     ### Intuitive measure: the case of NYC
     split_content = re.split('\s(### Intuitive measure: the case of NYC)',content_blocks[1])
-    print(split_content)
     st.markdown(split_content[0])
 
     col1, col2 = st.beta_columns([1, 3])
